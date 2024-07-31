@@ -50,6 +50,6 @@ You are provided with a dataset containing customer purchase information for an 
     - Performance by product categories.
       
       
-  ****Conclusion:
+  ### Conclusion:
   
 By focusing on top customers, leveraging seasonal trends, and expanding product offerings in high-performing categories, the company can significantly boost revenue. Additionally, exploring new markets and automating data updates will enhance decision-making and drive business growth.
