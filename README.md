@@ -48,7 +48,8 @@ You are provided with a dataset containing customer purchase information for an 
     - Purchase trends over time.
     - Top customers and their purchase behavior.
     - Performance by product categories.
-    - Any other insights you find relevant
       
-  ****Conclusion
+      
+  ****Conclusion:
+  
 By focusing on top customers, leveraging seasonal trends, and expanding product offerings in high-performing categories, the company can significantly boost revenue. Additionally, exploring new markets and automating data updates will enhance decision-making and drive business growth.
